@@ -1,0 +1,14 @@
+div {
+  background-color: #2e4c6d;
+}
+#page-title {
+  color: bisque;
+  border-bottom: 1px solid red;
+}
+#page-subtitle {
+  color: blueviolet;
+  border: 1px solid black;
+}
+main {
+  text-align: center;
+}
